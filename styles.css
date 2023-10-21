@@ -19,6 +19,7 @@ header{
     padding-left: 150px;
     padding-right: 95px;
     position: fixed;
+    z-index: 10000;
 }
 .menu-container{
     height: 100%;
